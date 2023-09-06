@@ -23,9 +23,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="examples/instance_segmentation/.readme/annotation.jpg" width="70%">
-</div>
 
 ## Description
 
